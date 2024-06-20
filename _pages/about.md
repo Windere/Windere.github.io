@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # About me
-I am a PH.D candidate at the [College of Computer Science](http://www.en.cs.zju.edu.cn/) and Technology, CCNT Lab, Zhejiang University, supervised by Prof. Huajin Tang.
+I am a PH.D candidate at the [College of Computer Science and Technology](http://www.en.cs.zju.edu.cn/), [CCNT Lab](http://ccnt.zju.edu.cn/), Zhejiang University, supervised by Prof. Huajin Tang.
 My research interest includes spiking neural network, sparse representation and efficient neuromorphic computing. Additionally, I am also interested in bio-based and bio-inspired reinforcement learning. Please contact me through zi_ming_wang@zju.edu.cn or zi_ming_wang@outlook.com if you are interested in my research.
 <!-- I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
