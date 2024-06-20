@@ -21,9 +21,9 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Ziming Wang"
+  name             : "Ziming Wang (王自铭)"
   avatar           : "images/ZimingWang.jpg"
-  bio              : "Zhejiang University"
+  bio              : "Zhejiang University, Brain-Machine Intelligence State Key Lab."
   location         : "Hangzhou, China"
   employer         :
   pubmed           : 
