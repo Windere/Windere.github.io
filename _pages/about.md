@@ -19,12 +19,12 @@ redirect_from:
 
 # About me
 I am a PH.D candidate at the [College of Computer Science and Technology](http://www.en.cs.zju.edu.cn/), [CCNT Lab](http://ccnt.zju.edu.cn/), Zhejiang University, supervised by Prof. Huajin Tang.
-My research interest includes spiking neural network, sparse representation and efficient neuromorphic computing. Additionally, I am also interested in bio-based and bio-inspired reinforcement learning. Please contact me through zi_ming_wang@zju.edu.cn or zi_ming_wang@outlook.com if you are interested in my research.
+My research interest includes spiking neural network, sparse representation, and efficient neuromorphic computing. Additionally, I am interested in bio-based and bio-inspired reinforcement learning. Please contact me at zi_ming_wang@zju.edu.cn or zi_ming_wang@outlook.com if you are interested in my research.
 <!-- I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
 
 # 🔥 News
-- 2024.06: &nbsp;🎉🎉 Build up this personal page, thanks for the [page template](https://github.com/RayeRen/acad-homepage.github.io) from Ren Yi.
+- 2024.06: &nbsp;🎉🎉 Built this personal page, thanks to the [page template](https://github.com/RayeRen/acad-homepage.github.io) from Ren Yi.
 <!-- - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
 # 📝 Publications 
@@ -108,5 +108,5 @@ My research interest includes neural machine translation and computer vision. I 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
 # 💻 Internships
-- *2022.07 – 2024.06* Liangzhu Laboratory, Hangzhou, PRC. Research Intern（Brain-inspired Percepction）
+- *2022.07 – 2024.06* Liangzhu Laboratory, Hangzhou, PRC. Research Intern（Brain-inspired Perception）
 - *2020.06 – 2020.09* Zhejiang Laboratory, Hangzhou, PRC. Research Intern（Neuromorphic Algorithm）
