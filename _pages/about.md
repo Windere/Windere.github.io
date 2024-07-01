@@ -34,8 +34,7 @@ My research interest includes spiking neural network, sparse representation, and
 
  - **Ziming Wang**, Runhao Jiang, Shuang Lian, Rui Yan, Huajin Tang. [Adaptive Smoothing Gradient Learning for Spiking Neural Networks](https://proceedings.mlr.press/v202/wang23j/wang23j.pdf), International Conference on Machine Learning (ICML), 2023
 
-- **Ziming Wang**, Yuhao Zhang, Shuang Lian, Xiaoxin Cui, Rui Yan, Huajin Tang
-. [Toward High-accuracy and Low-latency Spiking Neural Networks with Dual Phase Optimization](https://ieeexplore.ieee.org/abstract/document/10361844/), IEEE Transactions on Neural Networks and Learning Systems (TNNLS), 2023.
+- **Ziming Wang**, Yuhao Zhang, Shuang Lian, Xiaoxin Cui, Rui Yan, Huajin Tang. [Toward High-accuracy and Low-latency Spiking Neural Networks with Dual Phase Optimization](https://ieeexplore.ieee.org/abstract/document/10361844/), IEEE Transactions on Neural Networks and Learning Systems (TNNLS), 2023.
 
 
 - Lang Qin$^\*$, **Ziming Wang$^\*$** , Rui Yan, and Huajin Tang. [Attention-Based Deep Spiking Neural Networks for Temporal Credit Assignment Problems](https://scholar.google.com/scholar_url?url=https://ieeexplore.ieee.org/abstract/document/10038509/&hl=zh-CN&sa=T&oi=gsb&ct=res&cd=0&d=9839646359860287259&ei=4CtxZvjMDNiu6rQPotCy2AQ&scisig=AFWwaeZnGUw-evcTI5ecj7iP5uBg), IEEE Transactions on Neural Networks and Learning Systems (TNNLS), 2023. (* denotes co-first author)
@@ -44,8 +43,7 @@ My research interest includes spiking neural network, sparse representation, and
 
 - Mengwen, Yuan, Chengjun Zhang, **Ziming Wang**, Huixiang Liu, Gang Pan, Huajin Tang. [Trainable Spiking-YOLO for low-latency and high-performance object detection](https://www.sciencedirect.com/science/article/abs/pii/S0893608023007530). Neural Networks, 2024.
 
-- **Ziming Wang**, Ziling Wang, Huaning Li, Lang Qin, Runhao Jiang, De Ma, Huajin Tang
-. [EAS-SNN: End-to-End Adaptive Sampling and Representation for Event-based Detection with Recurrent
+- **Ziming Wang**, Ziling Wang, Huaning Li, Lang Qin, Runhao Jiang, De Ma, Huajin Tang. [EAS-SNN: End-to-End Adaptive Sampling and Representation for Event-based Detection with Recurrent
  Spiking Neural Networks](https://arxiv.org/abs/2403.12574), Arxiv, 2024.
 
 
@@ -80,7 +78,7 @@ My research interest includes neural machine translation and computer vision. I 
 
 # 🎖 Honors and Awards
 - [ICML 2022 Outstanding Reviewer](https://icml.cc/Conferences/2022/Reviewers) 
-- Graduate of Merit/Triple A graduate, Zhejiang University
+- Graduate of Merit/Triple A Performance, Zhejiang University
 - Outstanding Graduate Student of CCNT, Zhejiang University
 - [Second place in the Intel Neuromorphic Deep Noise Suppression Challenge](https://github.com/IntelLabs/IntelNeuromorphicDNSChallenge) 
 -  First Prize in the Ninth Chinese Mathematics Competitions (Sichuan Province)
