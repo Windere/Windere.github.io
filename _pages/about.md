@@ -24,6 +24,7 @@ My research interest includes spiking neural network, sparse representation, and
 
 
 # 🔥 News
+- 2024.07: &nbsp;🎉🎉 One paper is accepted by European Conference on Computer Vision (ECCV 2024).
 - 2024.06: &nbsp;🎉🎉 Built this personal page, thanks to the [page template](https://github.com/RayeRen/acad-homepage.github.io) from Ren Yi.
 <!-- - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
@@ -31,6 +32,9 @@ My research interest includes spiking neural network, sparse representation, and
 
 <!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2023</div><img src='images/arch_v8.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1"> -->
+
+- **Ziming Wang**, Ziling Wang, Huaning Li, Lang Qin, Runhao Jiang, De Ma, Huajin Tang. [EAS-SNN: End-to-End Adaptive Sampling and Representation for Event-based Detection with Recurrent
+ Spiking Neural Networks](https://arxiv.org/abs/2403.12574), ECCV, 2024.
 
  - **Ziming Wang**, Runhao Jiang, Shuang Lian, Rui Yan, Huajin Tang. [Adaptive Smoothing Gradient Learning for Spiking Neural Networks](https://proceedings.mlr.press/v202/wang23j/wang23j.pdf), International Conference on Machine Learning (ICML), 2023
 
@@ -43,8 +47,7 @@ My research interest includes spiking neural network, sparse representation, and
 
 - Mengwen, Yuan, Chengjun Zhang, **Ziming Wang**, Huixiang Liu, Gang Pan, Huajin Tang. [Trainable Spiking-YOLO for low-latency and high-performance object detection](https://www.sciencedirect.com/science/article/abs/pii/S0893608023007530). Neural Networks, 2024.
 
-- **Ziming Wang**, Ziling Wang, Huaning Li, Lang Qin, Runhao Jiang, De Ma, Huajin Tang. [EAS-SNN: End-to-End Adaptive Sampling and Representation for Event-based Detection with Recurrent
- Spiking Neural Networks](https://arxiv.org/abs/2403.12574), Arxiv, 2024.
+
 
 
 <!-- [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
